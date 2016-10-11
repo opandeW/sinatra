@@ -1,0 +1,7 @@
+---
+wopande@gmail.com: !ruby/object:Mailing
+  email: wopande@gmail.com
+  content: You look hot
+innovative.computers@live.com: !ruby/object:Mailing
+  email: innovative.computers@live.com
+  content: You look hotter

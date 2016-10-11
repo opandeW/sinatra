@@ -1,0 +1,25 @@
+---
+? &1 !ruby/object:Mailing
+  email: agagah
+  content: shshsh
+: *1
+? &2 !ruby/object:Mailing
+  email: fafsfs
+  content: jajaja
+: *2
+? &3 !ruby/object:Mailing
+  email: jajaja
+  content: jajaja
+: *3
+? &4 !ruby/object:Mailing
+  email: gygyug
+  content: yuhgyug
+: *4
+? &5 !ruby/object:Mailing
+  email: sigu
+  content: magwa
+: *5
+? &6 !ruby/object:Mailing
+  email: me
+  content: her
+: *6
