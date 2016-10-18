@@ -1,0 +1,1 @@
+Welcome to the Venture unto Vim Course!
