@@ -1,0 +1,9 @@
+---
+One: !ruby/object:Orders
+  table_no: One
+  waiter_name: Manyani
+  order: Achwaka
+Two: !ruby/object:Orders
+  table_no: Two
+  waiter_name: Ajeni
+  order: Orenge
