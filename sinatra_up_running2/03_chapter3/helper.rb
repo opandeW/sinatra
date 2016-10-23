@@ -9,6 +9,5 @@ module Sinatra
 			else "/page/#{name}"
 		end
 	end
-
 	helpers LinkHelper
 end
